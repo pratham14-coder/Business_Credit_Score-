@@ -82,6 +82,19 @@ Selected impactful features based on gain, trend logic & domain knowledge:
 
 ---
 
-## 📂 Folder Structure
+## 🧰 Tech Stack
+
+- **Languages:** Python, SQL  
+- **Libraries:** pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn  
+- **Database:** MySQL  
+- **Tools:** Jupyter Notebook, Git  
+
+---
+
+## 📬 Contact
+
+For any queries or collaboration, please reach out via email or open an issue on this repository.
+
+---
 
 
